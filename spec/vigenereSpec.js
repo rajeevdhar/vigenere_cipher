@@ -17,7 +17,7 @@
 //   // })
 // });
 
-ar vigenere = {};
+var vigenere = {};
 var helper = {};
 
 vigenere.encode = function(message, keyword) {
